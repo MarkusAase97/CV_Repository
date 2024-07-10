@@ -1,7 +1,6 @@
 # Skida Alpine Adventures
 
-I've been involved in a start-up, where I am the CTO of Skida Alpine Adventures. An app for skitouring enthusiasts, where I
-get to use my skill as a mathematician to do machine learning, backend-coding and business development.
+I've been involved in a start-up, where I am (as of february 2024- ) is the CTO of Skida Alpine Adventures. An app for skitouring enthusiasts, where I get to use my skill as a mathematician to do machine learning, backend-coding and business development.
 
 Additionally, I get to use my knowledge on avalanches, since I am a certified snow-avalanche instrutor through
 Norsk Fjellsportsforum. I usually hold a few courses out in the mountains, each winter-season, to teach people, what to
