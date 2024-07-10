@@ -1,6 +1,6 @@
 # TMA4300 (NTNU, spring 2022) - Computer Intensive Statistical Methods
 
-This folder includes our project submissions from a course in computational statistics in coopeartion with Nora Røhnebæk Aasen. A fun, but tough course at NTNU.
+This folder includes our project submissions from a course in computational statistics in coopeartion with Nora Røhnebæk Aasen.
 
 Project 1: Sampling algorithms, Monte Carlo estimation, rejection and importance sampling.
 
