@@ -1,4 +1,4 @@
-# CV-projects  
+# CV-projects (not finished)
 
 Here you can find different projects in math/statistics and ML.
 Project are from my time as:
