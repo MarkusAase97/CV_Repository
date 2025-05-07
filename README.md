@@ -10,4 +10,4 @@ Relevant work experience during studies:
 Relevant work experience after studies:
 * Data engineer/Consultant at Sopra Steria (2023-2024)
 * CTO of Skida: Alpine Adventures (2024 -)
-* Assistant professor in mathematics and statistics at UiT, Tromsø (2024 - ) 
+* Assistant professor in mathematics and statistics at UiT (School of Business and Economics), Tromsø (2024 - ) 
